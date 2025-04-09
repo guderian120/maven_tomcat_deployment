@@ -146,6 +146,12 @@ This project demonstrates how to scaffold, build, and deploy a Java web applicat
    ```
 
 ---
+3. **Pictures of Tomcat Deploy**
+   ### This images peeks into our tomcat manager gui, where we can see our app "helloworld-webapp"
+   ![Image 1](media/tomcat_manager.png)
+
+   ### This images shows our app running and being accessed from Apache Tomcat
+   ![Image 1](media/helloworld-app.png)
 
 ## ⚠️ Challenges Faced
 
