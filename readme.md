@@ -1,6 +1,4 @@
-That's awesome — you've built a full pipeline from scratch, integrated Maven with Tomcat, and deployed a Java web app! Definitely brag-worthy. Here's a clean, professional-looking `README.md` you can drop into your GitHub project:
 
----
 
 ```markdown
 # 🚀 Java WebApp Deployment Pipeline with Maven & Tomcat
@@ -172,6 +170,3 @@ Thanks to my own curiosity and the power of open-source tooling: Maven, Tomcat, 
 **Happy hacking!**
 ```
 
----
-
-Let me know if you want a badge section (e.g. Build: Passing ✅), CI integration later (like GitHub Actions), or screenshots/gifs of the deployed app — I can help you polish it up!
